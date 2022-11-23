@@ -1,3 +1,9 @@
+# CUSTOM
+
+data_allen/brain_observatory
+*.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
