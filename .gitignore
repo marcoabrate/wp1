@@ -1,6 +1,8 @@
 # CUSTOM
 
 data_allen/brain_observatory
+venv_blender/render_*
+video_conv/
 *.csv
 
 
